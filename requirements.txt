@@ -1,0 +1,6 @@
+numpy
+gymnasium
+pygame
+stable-baselines3
+imageio
+imageio-ffmpeg
